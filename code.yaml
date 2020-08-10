@@ -1,0 +1,39 @@
+# NIST Opensource Portql repositories categories and themes.
+#
+# Chose at least one category and as many themes as you think
+# adequate your opensource repository.
+# You are also able to provide futher details on the choices.
+# For example you could do:
+# categories:
+#   - scientific-software:
+#     - quantum-computing
+#     - theory
+# The same applies to themes.
+# Since scientific-software is most common it is left as default.
+# Feel free to comment it with a dash if not appropriate.
+# You are able to pick multiple categories and themes.
+# Unlike categories there is no default theme.
+# Note: Make sure to remove unwanted categories in the repository
+# topics. The final topics are produced from this file and the topics.
+
+categories:
+  - scientific-software
+  #- simulation
+  #- visualization
+  #- ai-ml
+  #- build-tools
+  #- hpc-workflow
+themes:
+  # - Advanced communications
+  # - Optical communications
+  # - Quantum communications
+  # - Bioscience
+  # - Buildings and Construction
+  # - Chemistry
+  # - Electronics
+  # - Energy
+  # - Environment
+  # - Fire
+  # - Forensic Science
+  # - Health
+  # - Information technology
