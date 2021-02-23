@@ -1,6 +1,6 @@
-# NIST Opensource Portql repositories categories and themes.
-#
-# Chose at least one category and as many themes as you think
+# NIST Opensource Portal repositories categories and themes.
+# Source: https://www.nist.gov/topics
+# Chose at least one theme and as many catgeories as you think
 # adequate your opensource repository.
 # You are also able to provide futher details on the choices.
 # For example you could do:
@@ -8,7 +8,9 @@
 #   - scientific-software:
 #     - quantum-computing
 #     - theory
-# The same applies to themes.
+# The category section is extendable to the understanding of
+# what you are actually doing in more details. You can pick
+# more than one.
 # Since scientific-software is most common it is left as default.
 # Feel free to comment it with a dash if not appropriate.
 # You are able to pick multiple categories and themes.
@@ -20,17 +22,35 @@ categories:
   - scientific-software
   #- simulation
   #- visualization
-  #- ai-ml
   #- build-tools
   #- hpc-workflow
 themes:
   # - Advanced communications
-  # - Optical communications
-  # - Quantum communications
+  # - Artificial intelligence
   # - Bioscience
-  # - Buildings and Construction
+  # - Buildings & Construction
   # - Chemistry
+  # - Cybersecurity
   # - Electronics
+  # - Energy
+  # - Environment
+  # - Fire
+  # - Forensic Science
+  # - Health
+  # - Information Technology
+  # - Infrastructure
+  # - Manufacturing
+  # - Materials
+  # - Mathematics & Statistics
+  # - Metrology
+  # - Nanotechnology
+  # - Neutron research
+  # - Performance excellence
+  # - Physics
+  # - Public safety
+  # - Resilience
+  # - Standards
+  # - Transportation
   # - Energy
   # - Environment
   # - Fire
