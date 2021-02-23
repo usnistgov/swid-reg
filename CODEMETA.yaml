@@ -1,16 +1,15 @@
 # NIST Opensource Portal repositories categories and themes.
 # Source: https://www.nist.gov/topics
-# Chose at least one theme and as many catgeories as you think
+# Chose one catgeory and at least one theme as you think
 # adequate your opensource repository.
+# Uncomment the category and the research
+# themes that suit you best.
 # You are also able to provide futher details on the choices.
 # For example you could do:
 # categories:
 #   - scientific-software:
 #     - quantum-computing
 #     - theory
-# The category section is extendable to the understanding of
-# what you are actually doing in more details. You can pick
-# more than one.
 # Since scientific-software is most common it is left as default.
 # Feel free to comment it with a dash if not appropriate.
 # You are able to pick multiple categories and themes.
