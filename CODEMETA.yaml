@@ -20,10 +20,10 @@
 categories:
   - scientific-software
   # - ai-ml
-  #- simulation
-  #- visualization
-  #- build-tools
-  #- hpc-workflow
+  # - simulation
+  # - visualization
+  # - build-tools
+  # - hpc-workflow
 themes:
   # - Advanced communications
   # - Artificial intelligence
