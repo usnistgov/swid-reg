@@ -16,6 +16,10 @@
 # Unlike categories there is no default theme.
 # Note: Make sure to remove unwanted categories in the repository
 # topics. The final topics are produced from this file and the topics.
+#
+# The following NIST topics and categories are based on the NIST
+# Taxonomy. It can be found here: 
+# https://data.nist.gov/od/id/691DDF3315711C14E0532457068146BE1907
 
 categories:
   - scientific-software
