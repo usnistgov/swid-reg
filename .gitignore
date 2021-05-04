@@ -1,0 +1,5 @@
+*.db
+*.done.log
+*.png
+*.swp
+.DS_Store
