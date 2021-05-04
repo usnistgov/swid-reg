@@ -22,11 +22,11 @@
 # https://data.nist.gov/od/id/691DDF3315711C14E0532457068146BE1907
 
 categories:
-  - scientific-software
+  # - scientific-software
   # - ai-ml
   # - simulation
   # - visualization
-  # - build-tools
+  - build-tools
   # - hpc-workflow
 themes:
   # - Advanced communications
@@ -34,15 +34,15 @@ themes:
   # - Bioscience
   # - Buildings & Construction
   # - Chemistry
-  # - Cybersecurity
+  - Cybersecurity
   # - Electronics
   # - Energy
   # - Environment
   # - Fire
   # - Forensic Science
   # - Health
-  # - Information Technology
-  # - Infrastructure
+  - Information Technology
+  - Infrastructure
   # - Manufacturing
   # - Materials
   # - Mathematics & Statistics
@@ -53,5 +53,5 @@ themes:
   # - Physics
   # - Public safety
   # - Resilience
-  # - Standards
+  - Standards
   # - Transportation
